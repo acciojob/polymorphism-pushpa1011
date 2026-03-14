@@ -18,6 +18,7 @@ public class Main {
         System.out.println(p.product(4,2));
         System.out.println(p.product(3,2,3));
         System.out.println(p.product(2.5,5.2));
+
     }
 
 }
